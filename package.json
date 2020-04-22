@@ -1,0 +1,28 @@
+{
+    "name": "gulp-staticsite-template",
+    "dependencies": {
+        "autoprefixer": "^9.7.6",
+        "csscomb": "^4.3.0",
+        "gulp-csscomb": "^3.1.0",
+        "gulp-imagemin": "^7.1.0",
+        "gulp-plumber": "^1.2.1",
+        "gulp-postcss": "^8.0.0",
+        "gulp-sass": "^4.0.2",
+        "imagemin-mozjpeg": "^8.0.0",
+        "imagemin-pngquant": "^8.0.0",
+        "inline-source-map": "^0.6.2",
+        "jquery": "^2.1.4",
+        "node-sass": "^4.13.1",
+        "postcss-flexbugs-fixes": "^4.2.0",
+        "swiper": "^5.3.7",
+        "webpack-cli": "^3.3.11"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.9.0",
+        "@babel/preset-env": "^7.9.5",
+        "babel-loader": "^8.1.0",
+        "gulp": "^4.0.2",
+        "webpack": "^4.42.1",
+        "webpack-stream": "^5.2.1"
+    }
+}
