@@ -1,1 +1,1 @@
-# gulp-static-website
+# gulp-static-template
