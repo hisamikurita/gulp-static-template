@@ -14,7 +14,7 @@
         "jquery": "^2.1.4",
         "node-sass": "^4.13.1",
         "postcss-flexbugs-fixes": "^4.2.0",
-        "swiper": "^5.3.7",
+        "swiper": "^6.5.1",
         "webpack-cli": "^3.3.11"
     },
     "devDependencies": {
